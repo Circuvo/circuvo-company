@@ -1,20 +1,19 @@
-# Circuvo
+# Circuvo — Company
 
-This repo holds company-level docs for **Circuvo**.
-
-Circuvo sits above **Sparky Venture Labs**, which is the operating studio currently building products like **Printer Studio** and **Filament Studio**.
+This repo holds company-level docs and planning notes for Circuvo.
 
 ## Structure
 
-- **Circuvo** — parent brand
-- **Sparky Venture Labs** — operating studio
-- **Printer Studio** — product
-- **Filament Studio** — product
+**Circuvo** is the parent company. **Sparky Venture Labs** is the operating studio that actually ships the products.
+
+Current products:
+- **Printer Studio** — iOS app for 3D printing
+- **Filament Studio** — in development
 
 ## What belongs here
 
-This repo is for things that belong at the Circuvo level, such as:
-- Company notes
-- Shared brand direction
-- References and planning docs
-- Links to studios and products under the umbrella
+Company-level docs, brand notes, shared references, and anything that applies across all products rather than to a specific one.
+
+## Contact
+
+Built and maintained in Orlando, FL. Reach out through [sparkyventurelabs.com](https://sparkyventurelabs.com).
